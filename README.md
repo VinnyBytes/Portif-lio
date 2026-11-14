@@ -4,8 +4,8 @@ Portfólio pessoal para apresentar meu perfil, meus projetos, certificados e inf
 
 ## Links
 
-- Repositório: https://github.com/VinnyBytes/Portifolio
-- Site publicado: https://vinnybytes.github.io/Portifolio/
+- Repositório: https://github.com/VinnyBytes/Portif-lio
+- Site publicado: https://vinnybytes.github.io/Portif-lio/
 
 ## Tecnologias
 
